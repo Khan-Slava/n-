@@ -8,7 +8,7 @@ Basic game structure for nFactorial AI CUP 2023, game track
 Eight
 
 ### Instructions to start your code
-
+java -jar capture.jar -player java java_bot.Eight
 ```
 <code>
 ```
